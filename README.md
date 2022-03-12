@@ -27,8 +27,11 @@
 #### Chapter 12: Graph Theory-Social media analytic - Course Wrap Up 
 
 
-This report evolves from the course I taugh at McMaster University, APU.
+This report evolves from the course I taugh at McMaster University, APU. and the following sites:
+
 http://introtodeeplearning.com/
+
+http://introtodeeplearning.com/2021/index.html
 
 http://courses.cms.caltech.edu/cs154/
 
