@@ -39,6 +39,26 @@ https://ctme.caltech.edu/programs-for-individuals/data-analytics-open/ai-machine
 
 https://cs230.stanford.edu/
 
+Resources & References:
+
+RNN
+
+http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-
+neural-networks/
+
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+https://github.com/Kulbear/deep-learning-
+
+coursera/blob/master/Sequence%20Models/Building%20a%20Recurrent%
+20Neural%20Network%20-%20Step%20by%20Step%20-%20v2.ipynb
+
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+On the difficulty of training Recurrent Neural Networks
+
+https://arxiv.org/pdf/1211.5063.pdf
+
 ## Description
 
 This repository contains a simple template for building [Pandoc](http://pandoc.org/) documents;
