@@ -1,0 +1,10 @@
+---
+title: My book title
+author: Alessandro Cucci
+rights: MIT License
+language: it-IT
+tags: [book, my-book, etc]
+abstract: |
+  Your summary.
+mainfont: DejaVu Sans
+---
