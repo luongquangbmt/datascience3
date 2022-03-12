@@ -1,11 +1,42 @@
-# Pandoc book template
+# Data Science 3
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/wikiti/pandoc-book-template/blob/master/LICENSE.md)
+
+#### Chapter 1: Course Introduction | Introduction to Data Science and Data Science Six steps 
+
+#### Chapter 2: History of Neural Network
+
+#### Chapter 3: Math PRIMER
+
+#### Chapter 4: Sentiment Analysis and Text Classification 
+
+#### Chapter 5: Introduction to Deep Learning 
+
+#### Chapter 6: Deep Neural Network
+
+#### Chapter 7: Convolutional neural networks 
+
+#### Chapter 8: Re-current Neural Network-LSTM 
+
+#### Chapter 9: Word Embedding 
+
+#### Chapter 10: Recommendation-engine 
+
+#### Chapter 11: Reinforcement Learning 
+
+#### Chapter 12: Graph Theory-Social media analytic - Course Wrap Up 
+
+
+This report evolves from the course I taugh at McMaster University, APU.
+http://introtodeeplearning.com/
+
+
 
 ## Description
 
 This repository contains a simple template for building [Pandoc](http://pandoc.org/) documents;
 Pandoc is a suite of tools to compile markdown files into readable files (PDF, EPUB, HTML...).
+I (Q) copied it from this repo https://github.com/alessandrocucci/book-template
 
 ## Usage
 
