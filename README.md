@@ -29,8 +29,9 @@
 
 This report evolves from the course I taugh at McMaster University, APU.
 http://introtodeeplearning.com/
-
-
+http://courses.cms.caltech.edu/cs154/
+https://ctme.caltech.edu/programs-for-individuals/data-analytics-open/ai-machine-learning-bootcamp-certificate-open
+https://cs230.stanford.edu/
 
 ## Description
 
