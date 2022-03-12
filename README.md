@@ -2,13 +2,13 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/wikiti/pandoc-book-template/blob/master/LICENSE.md)
 
-#### Chapter 1: Course Introduction | Introduction to Data Science and Data Science Six steps 
+#### Chapter 1: Introduction to Deep Learning and AI
 
-#### Chapter 2: History of Neural Network
+#### Chapter 2: History of Deep Learning and AI
 
 #### Chapter 3: Math PRIMER
 
-#### Chapter 4: Sentiment Analysis and Text Classification 
+#### Chapter 4: Tensorflow
 
 #### Chapter 5: Introduction to Deep Learning 
 
