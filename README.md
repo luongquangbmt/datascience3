@@ -1,5 +1,7 @@
 # Data Science 3
 
+## PART I: DEEP LEARNING
+
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/wikiti/pandoc-book-template/blob/master/LICENSE.md)
 
 #### Chapter 1: Introduction to Deep Learning and AI
@@ -25,6 +27,32 @@
 #### Chapter 11: Reinforcement Learning 
 
 #### Chapter 12: Graph Theory-Social media analytic - Course Wrap Up 
+
+
+## PART II: Environmental Data Sciences
+
+### Section I: DESCRIPTIVE MODELLING
+#### Chapter 1: Introduction to the course Introduction to R
+#### Chapter 2: Basic programming in R
+#### Chapter 3: Data Manipulation
+#### Chapter 4: Explorative Data Analysis
+#### Chapter 5: Summary Statistics,Data Visualization
+#### Chapter 6: Summary Statistics, Documentation and Report with RMarkdown
+### Section II: DETERMINISTIC MODELLING
+#### Chapter 7: Deterministic Function
+#### Chapter 8: Models by function fitting: Fitting Linear Models
+#### Chapter 9: Models by function fitting: non linear models, arbitrary curves
+#### Chapter 10: Models by function fitting: arbitrary curves
+#### Chapter 11: Recap of determinstic modelling, RBookdown
+### Section II: PROBABILISTIC MODELLING
+#### Chapter 12: Probability Basics
+#### Chapter 13: Discrete Distributions
+#### Chapter 14: Continuous Distributions
+### Section III: TRADITIONAL MACHINE LEARNING
+### Section IV: DEEP LEARNING
+
+
+
 
 
 This report evolves from the course I taugh at McMaster University, APU. and the following sites:
